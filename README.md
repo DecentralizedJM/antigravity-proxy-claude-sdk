@@ -327,7 +327,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 3. Make your changes with tests
 4. Run `pytest` and `mypy`
 5. Submit a pull request
-
-## Related Projects
-
-- [Antigravity Proxy](https://github.com/badri-s2001/antigravity-claude-proxy) - The Node.js proxy server
